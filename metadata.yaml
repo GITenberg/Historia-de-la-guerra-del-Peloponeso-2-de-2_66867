@@ -5,12 +5,17 @@ contributor:
     agent_name: Alderete, Diego Gracián de
     gutenberg_agent_id: '53995'
     url: http://www.gutenberg.org/2009/agents/53995
+covers:
+- cover_type: archival
+  image_path: 66867-h/images/cover.jpg
 creator:
   author:
     agent_name: Tucídides
     gutenberg_agent_id: '53994'
     url: http://www.gutenberg.org/2009/agents/53994
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66867#Historia-de-la-guerra-del-Peloponeso-2-de-2
 gutenberg_issued: '2021-12-02'
 identifiers:
   gutenberg: '66867'
